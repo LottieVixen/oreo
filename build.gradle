@@ -19,6 +19,7 @@ repositories {
 
 dependencies {
     compile 'org.jetbrains.kotlin:kotlin-stdlib'
+    compile 'commons-cli:commons-cli:1.4'
 }
 
-mainClassName = 'ApplicationKt'
+mainClassName = 'MainKt'
